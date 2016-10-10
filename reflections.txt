@@ -1,0 +1,18 @@
+Answer the following questions:
+  
+
+* What new skills have you learned?
+  
+
+I learnt how to format HTML with tags such as <p>,<i>,<b>,<img>,<a>,<hr> and <sup>
+
+* What has been easy?
+ 
+
+Looking up things on the The MDN element reference has been an enjoyable experience!
+ 
+* What has been difficult?
+ 
+
+Nothing very difficult here since this project was added to the course after I had completed my P3-Game Clone project. Since I had already learnt the basics of html formatting, this wasn't so difficult.
+
